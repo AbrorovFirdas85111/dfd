@@ -1,0 +1,27 @@
+.ichiga{
+    display: flex;
+    gap: 50px;
+    padding: 150px;
+}
+.box1{
+    width: 400px;
+    height: 50px;
+    border: solid blue ;
+    background-color: rgb(192, 192, 192);
+    transform: rotate(0deg);
+    font-size: 28px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box2{
+    width: 400px;
+    height: 50px;
+    border: solid blue ;
+    background-color: rgb(192, 192, 192);
+    transform: rotate(20deg);
+    font-size: 28px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
